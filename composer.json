@@ -1,0 +1,17 @@
+{
+    "name": "nadia/sistemaescolarv4",
+    "description": "es un sistema escolar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nadiaking",
+            "email": "nadiakingzton0315@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.17",
+        "illuminate/events": "^8.17",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}

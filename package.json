@@ -1,0 +1,13 @@
+{
+  "name": "sistemaescolarv4",
+  "version": "1.0.0",
+  "description": "es un sistema escolar v4",
+  "main": "index.js",
+  "repository": "https://github.com/nadiaking/sistemaescolarv4.git",
+  "author": "nadiaking <nadiakingzton0315@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}
